@@ -14,3 +14,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
 </div><br/>
+<div>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabevaz&show_icons=true&theme=radical&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-tech-code&layout=compact&langs_count=8&theme=radical"/>
+</div>
