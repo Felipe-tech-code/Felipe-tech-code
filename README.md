@@ -1,7 +1,7 @@
 <h1>Sobre mim(About me)</h1>
   
-- 👋 Olá, me chamo Felipe! Sou um estudante de TI e curso ADS atualmente. Gosto bastante desta área e sempre estou entrando e fazendo projetos para me preparar para o mercado de trabalho. Neste perfil irei postar minha evolução e projetos pessoais!🫡
-- 👋 Hello, my name is Felipe! I am an IT student currently studying Systems Analysis and Development. I really enjoy this field and am always working on projects to prepare myself for the job market. On this profile, I will be posting about my progress and personal projects!🫡
+- 👋 Olá! Sou um estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e design. Trabalho com back-end e front-end, com conhecimentos em Python, HTML, CSS, Flask e MySQL. Além disso, sou fluente em inglês e estou sempre buscando aprender novas linguagens e ferramentas. Atualmente, faço parte da equipe de TI de um escritório de advocacia. Adoro desafios que combinam programação e design para criar soluções inovadoras!
+- 👋 Hi there! I’m a Systems Analysis and Development student, passionate about technology and design. I work with both back-end and front-end development, with knowledge in Python, HTML, CSS, Flask, and MySQL. Additionally, I am fluent in English and always eager to learn new languages and tools. Currently, I am part of the IT team at a law firm. I love challenges that combine programming and design to create innovative solutions!
 
 <h1>Entre em contato(Get in touch)</h1>
 <div>
