@@ -65,7 +65,8 @@ I'm focused on evolving my career towards **Data Engineering**, working with rea
 - Preparing for **international opportunities** in the coming years
 
 ---
-
+### 💪 Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ### 🤝 Let's Connect
 
 <p align="left">
