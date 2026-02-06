@@ -66,7 +66,7 @@ I'm focused on evolving my career towards **Data Engineering**, working with rea
 
 ---
 ### 💪 Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-tech-code=true&theme=radical)
 ### 🤝 Let's Connect
 
 <p align="left">
