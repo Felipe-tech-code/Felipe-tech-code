@@ -65,10 +65,6 @@ I'm focused on evolving my career towards **Data Engineering**, working with rea
 - Preparing for **international opportunities** in the coming years
 
 ---
-### 💪 Status
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-tech-code=true&theme=radical)
-### 🤝 Let's Connect
-
 <p align="left">
   <a href="https://www.linkedin.com" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
